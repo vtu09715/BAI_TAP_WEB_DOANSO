@@ -1,0 +1,9 @@
+D:\VDT.GuessLib\VDT.GuessConsole\bin\Debug\VDT.GuessConsole.exe
+D:\VDT.GuessLib\VDT.GuessConsole\bin\Debug\VDT.GuessConsole.pdb
+D:\VDT.GuessLib\VDT.GuessConsole\bin\Debug\VDT.GuessLib.dll
+D:\VDT.GuessLib\VDT.GuessConsole\bin\Debug\VDT.GuessLib.pdb
+D:\VDT.GuessLib\VDT.GuessConsole\obj\Debug\VDT.GuessConsole.csproj.AssemblyReference.cache
+D:\VDT.GuessLib\VDT.GuessConsole\obj\Debug\VDT.GuessConsole.csproj.CoreCompileInputs.cache
+D:\VDT.GuessLib\VDT.GuessConsole\obj\Debug\VDT.Gues.9652E1F4.Up2Date
+D:\VDT.GuessLib\VDT.GuessConsole\obj\Debug\VDT.GuessConsole.exe
+D:\VDT.GuessLib\VDT.GuessConsole\obj\Debug\VDT.GuessConsole.pdb

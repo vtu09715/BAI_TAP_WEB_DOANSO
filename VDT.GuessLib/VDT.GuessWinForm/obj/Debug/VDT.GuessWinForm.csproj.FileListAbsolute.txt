@@ -1,0 +1,5 @@
+D:\VDT.GuessLib\VDT.GuessWinForm\obj\Debug\VDT.GuessWinForm.csproj.AssemblyReference.cache
+D:\VDT.GuessLib\VDT.GuessWinForm\obj\Debug\VDT.GuessWinForm.Form1.resources
+D:\VDT.GuessLib\VDT.GuessWinForm\obj\Debug\VDT.GuessWinForm.Properties.Resources.resources
+D:\VDT.GuessLib\VDT.GuessWinForm\obj\Debug\VDT.GuessWinForm.csproj.GenerateResource.cache
+D:\VDT.GuessLib\VDT.GuessWinForm\obj\Debug\VDT.GuessWinForm.csproj.CoreCompileInputs.cache

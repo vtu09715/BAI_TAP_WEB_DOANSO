@@ -1,0 +1,10 @@
+D:\VDT.GuessLib\VDTGuessWeb\bin\VDTGuessWeb.dll.config
+D:\VDT.GuessLib\VDTGuessWeb\bin\VDTGuessWeb.dll
+D:\VDT.GuessLib\VDTGuessWeb\bin\VDTGuessWeb.pdb
+D:\VDT.GuessLib\VDTGuessWeb\bin\VDT.GuessLib.dll
+D:\VDT.GuessLib\VDTGuessWeb\bin\VDT.GuessLib.pdb
+D:\VDT.GuessLib\VDTGuessWeb\obj\Debug\VDTGuessWeb.csproj.AssemblyReference.cache
+D:\VDT.GuessLib\VDTGuessWeb\obj\Debug\VDTGuessWeb.csproj.CoreCompileInputs.cache
+D:\VDT.GuessLib\VDTGuessWeb\obj\Debug\VDTGuess.201D9928.Up2Date
+D:\VDT.GuessLib\VDTGuessWeb\obj\Debug\VDTGuessWeb.dll
+D:\VDT.GuessLib\VDTGuessWeb\obj\Debug\VDTGuessWeb.pdb

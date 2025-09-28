@@ -1,0 +1,6 @@
+D:\VDT.GuessLib\VDT.GuessLib\bin\Debug\VDT.GuessLib.dll
+D:\VDT.GuessLib\VDT.GuessLib\bin\Debug\VDT.GuessLib.pdb
+D:\VDT.GuessLib\VDT.GuessLib\obj\Debug\VDT.GuessLib.csproj.AssemblyReference.cache
+D:\VDT.GuessLib\VDT.GuessLib\obj\Debug\VDT.GuessLib.csproj.CoreCompileInputs.cache
+D:\VDT.GuessLib\VDT.GuessLib\obj\Debug\VDT.GuessLib.dll
+D:\VDT.GuessLib\VDT.GuessLib\obj\Debug\VDT.GuessLib.pdb
