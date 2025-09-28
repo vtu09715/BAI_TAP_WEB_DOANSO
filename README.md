@@ -18,18 +18,18 @@ Web đơn giản, bắt buộc sử dụng .NET Framework 2.0, sử dụng web s
 # Cấu trúc Console App .NET 2.0 </p>
 <img width="267" height="212" alt="image" src="https://github.com/user-attachments/assets/7b668664-3154-4e2a-a3d3-e04691c561e3" />
 <img width="1564" height="620" alt="image" src="https://github.com/user-attachments/assets/ae2372bf-7cb7-4a6c-8d01-e66863446734" /> </p>
- # Cấu trúc Windows Form Application .NET 2.0
-<img width="288" height="353" alt="image" src="https://github.com/user-attachments/assets/9892dad3-7c1d-4947-8a0a-c23d6a365910" />
+ # Cấu trúc Windows Form Application .NET 2.0 </p>
+<img width="288" height="353" alt="image" src="https://github.com/user-attachments/assets/9892dad3-7c1d-4947-8a0a-c23d6a365910" /></p>
 <img width="1236" height="701" alt="image" src="https://github.com/user-attachments/assets/c65f0635-f726-4b80-9613-a53f7c81cd5e" />
 <img width="1308" height="710" alt="image" src="https://github.com/user-attachments/assets/8d15c077-0724-47c3-87c1-9b03dae5ee8c" /> </p>
-# Cấu trúc web 
+# Cấu trúc web </p>
 <img width="344" height="478" alt="image" src="https://github.com/user-attachments/assets/adc17807-4552-40b5-96c0-6d5f59dca61f" /> </p>
-# Tạo folder cho web 
+# Tạo folder cho web </p>
 <img width="1700" height="639" alt="image" src="https://github.com/user-attachments/assets/46c1e475-bd7b-4e44-891f-2bf6866b2190" /> </p>
-# add web cho iis 
+# add web cho iis </p>
 <img width="1405" height="521" alt="image" src="https://github.com/user-attachments/assets/a1062c25-0885-4ad8-a6aa-4b50775af8f3" /> </p>
-# Tạo domain 
+# Tạo domain </p>
 <img width="949" height="713" alt="image" src="https://github.com/user-attachments/assets/bf903455-3037-4b8b-b68e-5b9a7ca8e053" /> </p>
-# Kết quả 
+# Kết quả </p>
 <img width="1156" height="580" alt="image" src="https://github.com/user-attachments/assets/dc2bd8c7-1c5c-4b1c-903b-06e0af667d8d" /> </p>
 
